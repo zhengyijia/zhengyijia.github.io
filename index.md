@@ -6,7 +6,7 @@ layout: page
 
 I am currently a research assistant at **Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)**, under the supervision of [Prof. Hongyan Wu](https://people.ucas.edu.cn/~hywu). Before that, I have worked at **Bytedance** for one year. I received my master's degree from **University of Chinese Academy of Sciences (UCAS)** (under the supervision of [Prof. Hongyan Wu](https://people.ucas.edu.cn/~hywu) and [Prof. Yunpeng Cai](https://scholar.google.com/citations?user=_N0JJiEAAAAJ)) and bachelor's degree from **Jinan University (JNU)**. For more information, you can find my detailed CV [here](https://caihanlin.com/file/CV_Yijia_Zheng.pdf). If you are interested in my research and want to have further discussion with me, feel free to drop me an email! 
 
-I will start my PhD study at **University of Amsterdam (UvA)**, under the supervision of Prof. Marcel Worring](https://staff.fnwi.uva.nl/m.worring/)). Look forward to that!  
+I will start my PhD study at **University of Amsterdam (UvA)**, under the supervision of [Prof. Marcel Worring](https://staff.fnwi.uva.nl/m.worring/)). Look forward to that!  
 
 <br>
 
