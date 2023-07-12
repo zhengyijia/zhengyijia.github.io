@@ -4,10 +4,10 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>https://https://zhengyijia.github.io/</loc>
+      <loc>https://zhengyijia.github.io/</loc>
     </url>
     <url>
-      <loc>https://https://zhengyijia.github.io/file/CV_Yijia_Zheng.pdf</loc>
+      <loc>https://zhengyijia.github.io/file/CV_Yijia_Zheng.pdf</loc>
     </url>
 
     {% comment %}
