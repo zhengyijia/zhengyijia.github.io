@@ -28,7 +28,7 @@ I will start my PhD study at **University of Amsterdam (UvA)**, under the superv
 - **Oct. 2022 - current:** Research Assistant @ Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)
 - **Jul. 2021 - Jun. 2022:** Advertising Algorithm Engineer @ User Growth Group, Bytedance
 - **Sep. 2019 - Jul. 2021:** Research Intern @ Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS)
-- **Jun. 2020 - Aug. 2020:** Research Intern @ Sensetime
+- **Jun. 2020 - Aug. 2020:** Research Intern @ Mobile Intelligence Group, Sensetime
 
 <br>
 
