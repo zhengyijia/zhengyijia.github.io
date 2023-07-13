@@ -55,7 +55,7 @@ I have a broad interest in Machine Learning, including theoretical research and 
 
 ---
 
-## Publications
+## Selected Publications
 
 ### Working Manuscript
 
