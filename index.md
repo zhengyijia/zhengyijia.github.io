@@ -41,7 +41,7 @@ I will start my PhD study at **University of Amsterdam (UvA)**, under the superv
 - Transferability in Deep Learning
 - Neural-symbolic AI
 
-I have a broad interest in Machine Learning, including theoretical research and application research. I have some experience in applying deep learning methods in bioinformatics, like molecular optimization, single-cell data integration and bulk data deconvolution. Besides, I also have some experience in social media data processing and developing some algorithms for advertising business on Tiktok, like CTR/CVR prediction and creative ranking. I am also happy to explore many other aspects about AI. 
+I have a broad interest in Machine Learning, including theoretical research and application. I have some experience in applying deep learning methods in bioinformatics, like molecular optimization, single-cell data integration and bulk data deconvolution. Besides, I also have some experience in social media data processing and developing some algorithms for advertising business on Tiktok, like CTR/CVR prediction and creative ranking. I am also happy to explore many other aspects about AI. 
 
 <br>
 
