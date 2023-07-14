@@ -68,3 +68,8 @@
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.url }}/fav.ico">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/fav.ico">
+
+<!-- 配置Google Analytics -->
+ {% if jekyll.environment == 'production' and site.google_analytics %}
+ {% include google-analytics.html %}
+ {% endif %}
